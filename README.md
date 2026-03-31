@@ -162,8 +162,8 @@ The application handles the following gracefully:
 
 ## Author
 
-**Aniket Sahu**  
-Registration No: 25BAI11514  
+**Yajat Rathore**  
+Registration No: 25BAI10864 
 B.Tech CSE (AI/ML) — VIT Bhopal University  
 
 ---
