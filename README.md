@@ -49,7 +49,7 @@ No internet connection required. All data is stored locally.
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/aniket25bai11514/ai-expense-tracker.git
+git clone https://github.com/yajat25bai10864/ai-expense-tracker.git
 cd ai-expense-tracker
 ```
 
