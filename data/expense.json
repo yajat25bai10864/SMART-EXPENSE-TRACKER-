@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 500000.0,
+        "description": "ps5",
+        "category": "Other",
+        "date": "2026-03-24"
+    },
+    {
+        "amount": 5000000000000.0,
+        "description": "property",
+        "category": "Other",
+        "date": "2026-03-24"
+    },
+    {
+        "amount": 425.0,
+        "description": "soda",
+        "category": "Other",
+        "date": "2026-03-29"
+    }
+]
